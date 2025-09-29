@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Effective Date: [Insert Date]</p>
+
+  <p>This Privacy Policy describes how we collect, use, and protect your information when using our Meta-integrated application.</p>
+
+  <h2>Information We Collect</h2>
+  <ul>
+    <li>Advertising performance data via the Meta Marketing API</li>
+    <li>Basic ad metrics such as impressions, clicks, and conversions</li>
+    <li>No personal or user-identifiable information is collected</li>
+  </ul>
+
+  <h2>How We Use the Information</h2>
+  <p>We use the data to automate advertising performance reports. This information is stored locally and not shared with third parties.</p>
+
+  <h2>Data Security</h2>
+  <p>We take data security seriously. All data is stored securely on a local machine with restricted access.</p>
+
+  <h2>Third Parties</h2>
+  <p>We do not share, sell, or distribute your data to any third parties.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions, please contact us at cnielsen@invent.org.</p>
+</body>
+</html>
